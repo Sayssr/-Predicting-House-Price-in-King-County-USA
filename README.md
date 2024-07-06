@@ -1,4 +1,4 @@
-# Predicting-House-Price-in-King-County-USA
+
 <p style="text-align:center">
 <h1 align="center"><font size="5">Project: Predicting House Price in King County, USA </font></h1>
 
